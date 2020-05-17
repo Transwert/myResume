@@ -1,2 +1,2 @@
 # myResume
-Contains my resume ( updated on : 7th January, 2020 )
+Contains my resume ( updated on : May 17th, 2020 )
